@@ -37,7 +37,7 @@ body{
 
 .Main{
   justify-content: center;
-  margin-left: 50px;
+  
 }
 .content{
     margin-left: -100px;
@@ -72,6 +72,7 @@ body{
 }
 
 .btns{
+    display: flex;
     position: absolute;
     padding: 20px 5%;
     width: 348px;
@@ -79,9 +80,8 @@ body{
     left: 600px;
     top: 170px;
     flex: none;
-    display: flex;
     margin-top: -10px;
-    margin-left: -100px;
+    margin-left: -130px;
 }
 .button{
     background-color: #71C0D4;
@@ -160,7 +160,7 @@ line-height: 26px;
 color: #4D96A9;
 letter-spacing: 4px;
 margin-top: -80px;
-margin-left: 30px;
+margin-left: 10px;
 }
 .sub_head{
     font-family:'Red hat display',sans-serif;
@@ -171,7 +171,7 @@ margin-left: 30px;
     color: #28283D;
   width:  500px;
   text-align: center;
-   margin-left: 550px;
+   margin-left: 450px;
     margin-top: 20px;
 }
 
@@ -190,7 +190,7 @@ text-align: center;
 color: #87879D;
 text-align: center;
  margin-top: 20px;
-  margin-left: 550px;
+  margin-left: 450px;
 }
 
 .stage2{
